@@ -18,3 +18,4 @@ The Heatmap basically shows you the following:
  
 **Screenshot** (Homelab = no 32 pCore CPU available ;-) )
 
+<a href="vmware_per_cpu_pricing_model_update.jpg"><img src="vmware_per_cpu_pricing_model_update.jpg"></img></a>
